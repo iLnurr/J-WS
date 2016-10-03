@@ -11,6 +11,7 @@
 
 	<modules>
 		<module>mailSender</module>
+		<module>YM-DTP</module>
 	</modules>
 
 	<properties>
